@@ -1,0 +1,16 @@
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\PokerTestws.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\PokerTestws.pdb
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Poker.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Poker.pdb
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\obj\Debug\PokerTestws.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\obj\Debug\PokerTestws.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\obj\Debug\PokerTestws.csproj.CopyComplete
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\obj\Debug\PokerTestws.dll
+C:\Users\erik0\source\repos\Poker.Test\PokerTestws\obj\Debug\PokerTestws.pdb
